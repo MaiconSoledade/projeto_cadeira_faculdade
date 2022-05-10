@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Goomer</string>
+    <string name="rating">Avaliação: %s</string>
+    <string name="time">Tempo Estimado: %s</string>
+    <string name="see_menu">Ver o Menu</string>
+    <string name="price">R$ %s</string>
+    <string name="see_reviews">Ver Avaliações</string>
+    <string name="make_avaliation">Fazer Avaliação</string>
+    <string name="write_avaliation">Escereva a avaliação</string>
+    <string name="post">Publicar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="one">1</string>
+    <string name="avaliations">Avaliações</string>
+    <string name="five">5</string>
+    <string name="restaurants">Restaurantes</string>
+    <string name="detail_restaurant">Detalhes Restaurante</string>
+    <string name="menu">Menu</string>
+    <string name="write_your_comment">Escreva seu comentário</string>
+</resources>
