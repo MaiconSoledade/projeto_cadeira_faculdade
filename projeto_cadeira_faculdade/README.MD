@@ -1,7 +1,7 @@
-Projeto: Trabalho cadeira Desenvolvimento Android Fadergs
+Projeto: Trabalho cadeira Desenvolvimento Android Faculdade Fadergs
 
 Nome: Maicon Douglas Arede da Soledade
-e-mail: maiconsoledade@hotmail.com
+E-mail: maiconsoledade@hotmail.com
 
 Dificuldades encontradas:
 
