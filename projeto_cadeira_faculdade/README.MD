@@ -1,10 +1,7 @@
-Teste para o processo seletivo da Goomer
-Vaga: Android
+Projeto: Trabalho cadeira Desenvolvimento Android Fadergs
 
-Projeto: Goomer Android em Kotlin
-
-Nome: Caíque de Paula Figueiredo Coelho
-e-mail: caiquedpfc@gmail.com
+Nome: Maicon Douglas Arede da Soledade
+e-mail: maiconsoledade@hotmail.com
 
 Dificuldades encontradas:
 
